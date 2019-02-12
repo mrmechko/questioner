@@ -1,0 +1,2 @@
+-e git+git@github.com:mrmechko/TripsIM.git@7bdacfeb28aefe69de1ec7f9666aa37cdc71f3c8#egg=TripsIM
+-e git+git@github.com:mrmechko/trips-web.git@2f5733450a8c2b6814b767efe2487422e47c98e4#egg=trips_web
